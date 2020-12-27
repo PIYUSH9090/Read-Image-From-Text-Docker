@@ -1,0 +1,3 @@
+we already seen this read image from text, Now we will dockerize of this task so, Lets begin....
+
+First ke
